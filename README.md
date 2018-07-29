@@ -12,7 +12,7 @@ Set of scripts to export flights from TripIt and import them into Flightdiary. Q
     "CLIENT_SECRET": "*** API Secret ***"
 }
 ```
-
+* Install requierements with `pip install -r requierements.txt`
 * Run `get_token.py`
 * Click on the `/authorize` URL and follow the instructions
 * **You will land at a "Page Not Found", that's normal**
